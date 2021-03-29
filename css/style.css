@@ -1,0 +1,32 @@
+body {
+    background: linear-gradient(to bottom, rgba(0, 255, 255), rgba(0, 255, 255, 0.1));
+    font-size: 1.15em ;
+    text-align: justify;
+}
+
+
+#title {
+    font-weight: 100;
+    color: rgb(200, 158, 49);
+}
+
+
+.subtitle{
+    color: rgb(214, 175, 76);
+}
+
+#service-image{
+    height: 400px;
+    width: 70vw;
+
+    background: radial-gradient(circle ,red 20%, blue 40%, green 55%);
+    /* background-size: cover; */
+}
+
+.link {
+    text-decoration: underline;
+}
+
+.italics {
+    font-style: italic;
+}
